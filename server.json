@@ -31,6 +31,22 @@
       "type": "outcome",
       "createdAt": "2023-10-09T05:51:58.690Z",
       "id": 4
+    },
+    {
+      "description": "PS5",
+      "price": 1000,
+      "category": "Gastos",
+      "type": "outcome",
+      "createdAt": "2023-10-09T06:01:40.180Z",
+      "id": 5
+    },
+    {
+      "description": "Carro",
+      "price": 50000,
+      "category": "Gastos",
+      "type": "outcome",
+      "createdAt": "2023-10-09T06:02:00.812Z",
+      "id": 6
     }
   ]
 }

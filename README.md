@@ -93,4 +93,5 @@ Samuel Oh - [samueloh99@gmail.com](mailto:samueloh99@gmail.com)
 
 Project Link: [https://github.com/samueloh99/dt-money](https://github.com/samueloh99/ignite-timer)
 
-Live Project Link: https://ignite-timer-three-chi.vercel.app/
+Live Project Link: https://vercel.com/samueloh9/dt-money
+obs: You will not be able to add or see any expenses track on live link because I'm using JSON Server. So if you want to use it and test please clone and use it in your local environment.
